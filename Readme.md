@@ -1,5 +1,7 @@
 # Git Commands and Descriptions
 
+!["Git Work Flow"](img/git.jpeg)
+
 ## Introduction
 Git is a distributed version control system that has revolutionized the way developers manage and collaborate on software projects. Developed by Linus Torvalds, Git allows multiple individuals to work on the same codebase simultaneously while keeping track of changes, managing different versions, and facilitating seamless collaboration. Git operates through a combination of local and remote repositories, enabling developers to create, modify, and merge code efficiently. By providing features such as branching, merging, and tagging, Git empowers teams to work on new features, fix bugs, and experiment with minimal risk. Its ability to maintain a detailed history of changes, along with its decentralized nature, makes it a cornerstone of modern software development, ensuring better code quality, streamlined workflows, and the preservation of project history.
 
