@@ -15,7 +15,7 @@ git add readme.txt && git commit -m "Initial commit"
 ### 1. Staging and Amending
 Goal: Understand staging granularity and amending commits.
 Tasks:
-1. Append two new lines to `readme.txt`.
+1. Append two new lines to `readme.md`.
 2. Stage ONLY the first added line using `git add -p` (interactive patch mode).
 3. Commit with message "Partial change".
 4. Stage the remaining line and amend the previous commit (no new commit object wanted in history).
@@ -141,19 +141,4 @@ Key Commands: `git submodule add`, `git submodule update --init --recursive`, `g
 * Keep `git log --oneline --graph --decorate --all` handy to visualize.
 * Use `alias` in your shell or Git config to speed frequent commands.
 * Practice in small repeated cycles to build muscle memory.
-
-If you'd like more scenario ideas (CI integration, hooks, signing commits), open an issue or PR.
-
-## Contribution
-
-Contributions to this repository are welcome and encouraged! If you have additional insights, use cases, or examples for any of the Git commands, feel free to submit a pull request. Please adhere to the existing formatting and keep explanations clear and concise.
-
-**To contribute:**
-
-1. Fork this repository.
-2. Add or Edit the relevant Readme.md file with the command and description.
-3. Push your branch to your forked repository.
-3. Open a pull request to merge your changes back into the main repository.
-
-By contributing to this repository, you're helping the development community learn and master Git more effectively.
 
